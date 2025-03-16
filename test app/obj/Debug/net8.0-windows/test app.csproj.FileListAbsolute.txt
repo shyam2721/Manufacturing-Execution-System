@@ -1,0 +1,18 @@
+C:\internship training\test app\bin\Debug\net8.0-windows\test app.exe
+C:\internship training\test app\bin\Debug\net8.0-windows\test app.deps.json
+C:\internship training\test app\bin\Debug\net8.0-windows\test app.runtimeconfig.json
+C:\internship training\test app\bin\Debug\net8.0-windows\test app.dll
+C:\internship training\test app\bin\Debug\net8.0-windows\test app.pdb
+C:\internship training\test app\obj\Debug\net8.0-windows\test_app.Form1.resources
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.csproj.GenerateResource.cache
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.GeneratedMSBuildEditorConfig.editorconfig
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.AssemblyInfoInputs.cache
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.AssemblyInfo.cs
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.csproj.CoreCompileInputs.cache
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.dll
+C:\internship training\test app\obj\Debug\net8.0-windows\refint\test app.dll
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.pdb
+C:\internship training\test app\obj\Debug\net8.0-windows\test app.genruntimeconfig.cache
+C:\internship training\test app\obj\Debug\net8.0-windows\ref\test app.dll
+C:\internship training\test app\obj\Debug\net8.0-windows\test_app.Properties.Resources.resources
+C:\internship training\test app\obj\Debug\net8.0-windows\test_app.Form2.resources

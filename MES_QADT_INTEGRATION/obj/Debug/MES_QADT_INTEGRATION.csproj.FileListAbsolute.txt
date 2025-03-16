@@ -1,0 +1,24 @@
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\bin\Debug\MES_QADT_INTEGRATION.exe.config
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\bin\Debug\MES_QADT_INTEGRATION.exe
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\bin\Debug\MES_QADT_INTEGRATION.pdb
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.csproj.AssemblyReference.cache
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.Login.resources
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.Properties.Resources.resources
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.csproj.GenerateResource.cache
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.csproj.CoreCompileInputs.cache
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.exe
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.pdb
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.Form1.resources
+C:\KIIT\Placement Material\Internships\Tata Steel(Internship)\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.MES_QADT_RESULT.resources
+C:\internship training\MES_QADT_INTEGRATION\bin\Debug\MES_QADT_INTEGRATION.exe.config
+C:\internship training\MES_QADT_INTEGRATION\bin\Debug\MES_QADT_INTEGRATION.exe
+C:\internship training\MES_QADT_INTEGRATION\bin\Debug\MES_QADT_INTEGRATION.pdb
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.csproj.AssemblyReference.cache
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.Form1.resources
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.Login.resources
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.MES_QADT_RESULT.resources
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.Properties.Resources.resources
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.csproj.GenerateResource.cache
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.csproj.CoreCompileInputs.cache
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.exe
+C:\internship training\MES_QADT_INTEGRATION\obj\Debug\MES_QADT_INTEGRATION.pdb
